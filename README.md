@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Samagent97
-- 👀 I’m interested in learning  and catching  fun in coding 
-- 🌱 I’m currently learning ...Javascript,  Css and Html
-- 💞️ I’m looking to collaborate on projects with other developers  to help me build myself 
+- 👀 
 - 📫 How to reach me ... Sammccarthy090@gmail.com 
 
 <!---
